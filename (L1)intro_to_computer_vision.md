@@ -9,7 +9,7 @@
 
 It relates to many disciplines:
 
-![diagram](./pictures/related_disciplines.png "Relating disciplines")
+![diagram](./pictures/related_disciplines.PNG "Relating disciplines")
 
 ## Online reading:
 
@@ -67,6 +67,6 @@ It relates to many disciplines:
 
 Context is important:
 
-![Picture](./pictures/reason_for_context.png "Circled images identical without context")
+![Picture](./pictures/reason_for_context.PNG "Circled images identical without context")
 
 
